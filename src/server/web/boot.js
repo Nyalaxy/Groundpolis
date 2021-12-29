@@ -21,7 +21,7 @@
 		splashText.innerText = String(data);
 	}
 
-	printSplash('Booting');
+	printSplash('にゃあ');
 
 	const res = await fetch('/api/meta', {
 		method: 'POST',
