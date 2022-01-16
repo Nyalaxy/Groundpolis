@@ -1,6 +1,10 @@
 {
 	"name": "groundpolis",
+<<<<<<< HEAD
 	"version": "2021.12.2",
+=======
+	"version": "2021.12.1-Hoshisaki-0",
+>>>>>>> 1e90e521a49211ee07d06a7feab04d25b4ae2fa5
 	"private": true,
 	"author": "Xeltica <xeltica@gmail.com>",
 	"contributors": [
